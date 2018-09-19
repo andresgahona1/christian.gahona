@@ -1,0 +1,41 @@
+
+
+<html>
+
+
+<body background="fondo3.jpg">
+
+<body>
+<DIV>
+<center> <h1> ESTUDIOS </h1></center> </br>
+<h2>INGENIERIA DE SISTEMAS</h2>
+<N><FONT SIZE=5><FONT COLOR=BLACK> Corporación Unificada Nacional De Educación Superior (CUN)</N></FONT></FONT></BR>
+<N><FONT SIZE=5><FONT COLOR=BLACK>V SEMESTRE 2018</N></FONT></FONT></BR>
+<N><FONT SIZE=5><FONT COLOR=BLACK> Telefono:(1) 3078180</N></FONT></FONT></BR>
+<a href="https://www.cun.edu.co/">Link Pagina Universidad</a>       
+</DIV>
+
+<DIV>
+<h2>TECNICO EN SISTEMAS</h2>
+<N><FONT SIZE=5><FONT COLOR=BLACK> Servicio Nacional De Aprendizaje (Sena)</N></FONT></FONT></BR>
+<N><FONT SIZE=5><FONT COLOR=BLACK>Año: 2015.</N></FONT></FONT></BR>
+<N><FONT SIZE=5><FONT COLOR=BLACK> Cra. 18a #2-18 sur · (1) 5461600</N></FONT></FONT></BR>
+<a href="http://oferta.senasofiaplus.edu.co/sofia-oferta/">Link Pagina Sena</a>      
+</DIV>
+
+<DIV>
+<h2>BACHILLER ACADEMICO</h2>
+<N><FONT SIZE=5><FONT COLOR=BLACK>Institucion Educativa San Andres Tello Huila</N></FONT></FONT></BR>
+<N><FONT SIZE=5><FONT COLOR=BLACK>Año: 2013.</N></FONT></FONT></BR>
+<N><FONT SIZE=5><FONT COLOR=BLACK> Cra.1 #2-18· (8) 8721345</N></FONT></FONT></BR>
+ <a href="http://www.huila.gov.co/educacion/">Link Secretaria de Educacion</a>        
+</DIV>
+
+
+
+<div>
+<p><a href="HOJADEVIDA.html/" target="_blank">INICIO</a></p>
+</DIV>
+
+</body>
+</HTML>
